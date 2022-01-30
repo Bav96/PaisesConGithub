@@ -17,7 +17,7 @@ public class DetallePaisFragment extends Fragment {
 
     private FragmentDetallePaisBinding binding;
     private PlaceholderContent.Pais mPais;
-
+    private String Pais;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
